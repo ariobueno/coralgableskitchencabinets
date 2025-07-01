@@ -60,7 +60,7 @@ header .logo {
 /* Hero Section */
 .hero {
     position: relative; /* Needed for overlay positioning */
-    background-image: url("hero_background.jpg");
+    background-image: url("cabinet-hardware-trends.jpg.webp");
     background-size: cover;
     background-position: center;
     color: #fff; /* Changed text to white for better contrast */
